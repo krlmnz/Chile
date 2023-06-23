@@ -20,9 +20,8 @@ The most northern regions are  known for bold wines like Syrah and Cabernet Sauv
 - The Southern Region is known for delicate, aromatic grapes like Pinot Noir and Riesling. 
 - The Andes Mountain Region produces bold, structured wines with high tannins and acidity such as Malbec, Cabernet Sauvignon, and Syrah due to high altitude and dry climate.
 
-<div style="min-height:371px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TFcCo/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TFcCo/full.png" alt="" /></noscript></div>
+<div style="min-height:371px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TFcCo/embed.js?v=1" charset="utf-8"></div>
 
-<iframe title="Main exporters of wine" aria-label="Split Bars" id="datawrapper-chart-TFcCo" src="https://datawrapper.dwcdn.net/TFcCo/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="372" data-external="1"></iframe>
 
 ### Chilean exports
 Chile is the fifth-largest exporter of wine in the world, with its exports accounting for 10% of the global wine market. The country's wine industry generates significant revenue and plays a crucial role in the country's economy, providing employment opportunities and boosting tourism. In 2022, Chilean wine export volume totaled 833.5 million liters, a 4.0 percent decrease from 2021. The export value of Chilean wine was US$2.9 billion in 2020, and the country exports wine to over 140 countries worldwide, making it one of the most important wine producers and exporters in the world.
