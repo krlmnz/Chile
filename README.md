@@ -20,7 +20,7 @@ The most northern regions are  known for bold wines like Syrah and Cabernet Sauv
 - The Southern Region is known for delicate, aromatic grapes like Pinot Noir and Riesling. 
 - The Andes Mountain Region produces bold, structured wines with high tannins and acidity such as Malbec, Cabernet Sauvignon, and Syrah due to high altitude and dry climate.
 
-<div style="min-height:371px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TFcCo/embed.js?v=1" charset="utf-8"></div>
+<div style="min-height:371px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TFcCo/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TFcCo/full.png" alt="" /></noscript></div>
 
 
 ### Chilean exports
