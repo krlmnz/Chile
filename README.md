@@ -22,11 +22,11 @@ The most northern regions are  known for bold wines like Syrah and Cabernet Sauv
 
 <div style="min-height:371px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TFcCo/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TFcCo/full.png" alt="" /></noscript></div>
 
+<div style="min-height:372px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/TFcCo/embed.js?v=3" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/TFcCo/full.png" alt="Chart of main exporters of wine by volume and value.
+" /></noscript></div>
+
 ### Chilean exports
 Chile is the fifth-largest exporter of wine in the world, with its exports accounting for 10% of the global wine market. The country's wine industry generates significant revenue and plays a crucial role in the country's economy, providing employment opportunities and boosting tourism. In 2022, Chilean wine export volume totaled 833.5 million liters, a 4.0 percent decrease from 2021. The export value of Chilean wine was US$2.9 billion in 2020, and the country exports wine to over 140 countries worldwide, making it one of the most important wine producers and exporters in the world.
-
-<iframe title="Main exporters of wine" aria-label="Multiple Pies" id="datawrapper-chart-TFcCo" src="https://datawrapper.dwcdn.net/TFcCo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="371" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
 
 Along with wine, Chile exports many other valuable products including avocados and lithium minerals. Avocados are one of the country's top agricultural exports, with the United States as its largest market. Additionally, Chile is a significant producer of lithium, which is used in batteries for electric vehicles and other applications. The country has some of the largest lithium reserves and major mining operations. These exports contribute to Chile's global economic competitiveness along with its wine industry.
 
