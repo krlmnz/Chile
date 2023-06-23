@@ -12,7 +12,8 @@ Chile's geography, climate, and soil make it ideal for growing grapes. The Medit
 Chile's location between the Andes Mountains and the Pacific Ocean provides the ideal climate and terrain for growing grapes and producing wine. The country has carved out a unique niche for itself in the global wine industry, with each wine region offering distinct flavors and characteristics. In addition to being an important contributor to Chile's economy, the wine industry also provides employment opportunities in rural areas and brings travelers to the country's beautiful valleys. Chile's natural resources, including its geography, climate, and soil, make it a prime location for grape growing, with the Mediterranean climate providing the perfect conditions for producing high-quality grapes.
 The most northern regions are  known for bold wines like Syrah and Cabernet Sauvignon, due to high temperatures and low rainfall.
 
-<img src="Region_Map.png>
+![Map of Chile's wine regions](Region_Map.png)
+
 
 - The Aconcagua Region produces high-quality grapes such as Cabernet Sauvignon and Sauvignon Blanc due to cool ocean breezes.
 - The Central Valley Region is the largest wine-producing region in Chile and suitable for growing a wide variety of grapes.
@@ -23,6 +24,9 @@ The most northern regions are  known for bold wines like Syrah and Cabernet Sauv
 
 ### Chilean exports
 Chile is the fifth-largest exporter of wine in the world, with its exports accounting for 10% of the global wine market. The country's wine industry generates significant revenue and plays a crucial role in the country's economy, providing employment opportunities and boosting tourism. In 2022, Chilean wine export volume totaled 833.5 million liters, a 4.0 percent decrease from 2021. The export value of Chilean wine was US$2.9 billion in 2020, and the country exports wine to over 140 countries worldwide, making it one of the most important wine producers and exporters in the world.
+
+<iframe title="Main exporters of wine" aria-label="Multiple Pies" id="datawrapper-chart-TFcCo" src="https://datawrapper.dwcdn.net/TFcCo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="371" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 Along with wine, Chile exports many other valuable products including avocados and lithium minerals. Avocados are one of the country's top agricultural exports, with the United States as its largest market. Additionally, Chile is a significant producer of lithium, which is used in batteries for electric vehicles and other applications. The country has some of the largest lithium reserves and major mining operations. These exports contribute to Chile's global economic competitiveness along with its wine industry.
 
