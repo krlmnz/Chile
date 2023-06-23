@@ -1,12 +1,10 @@
 ### Overview 
 The aim of this project was to investigate the Chilean wine trade and its impact on the environment and economy, as well as to examine the country's unique natural resources and their role in the wine industry. Data was collected from various sources, including government reports, industry publications, and academic research. The analysis process involved cleaning datasets in Jupyter Notebook and creating new, cleaner CSV files from which infographics were generated in Datta Wrapper. I designed a custom map of Chile's wine regions using Figma. At my current python skill level, removing data and creating a new file is easier, but it takes away some ability to provide context, such as comparisons to other countries. I found an overwhelming amount of public data on this topic, it was challenging to narrow the scope and decide what to leave out. With more time, I would like to explore biodiversity information further and create a wine region map with habitat information. 
 
-I am working on uploading shapes to Mapbox using SVG plotter to convert shapes into geoJSON. TI uploaded SVGs, added latitude and longitude to center each region. It was a manual process where I referenced print wine maps of the region to eyeball size, rotation and where to center it. 
+I am working on uploading shapes to Mapbox using [SVG plotter](https://atticus.dev/svg-plotter/demo/). to convert shapes into geoJSON. TI uploaded SVGs, added latitude and longitude to center each region. It was a manual process where I referenced print wine maps of the region to eyeball size, rotation and where to center it. 
 I uploaded SVGs, added latitude and longitude to center each region. And then uploaded each JSON file to a Mapbox dataset.
-<img src="svg-plot.png><br>
-<img src="mapbox-studio.png><br>
-
-
+![SVG Plot screenshot](svg-plot.png)
+![Screenshot of mapbox studio](mapbox-studio.png)
 
 ### Chile's Wine Regions
 Chile's geography, climate, and soil make it ideal for growing grapes. The Mediterranean climate with warm, dry summers and cool, wet winters, creates perfect conditions for grape growing. Chilean wine regions have carved a niche for themselves in the global wine industry, each with unique characteristics that contribute to the distinct flavors of the wines produced there.
